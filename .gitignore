@@ -48,3 +48,5 @@ Thumbs.db
 # pom.xml
 # mybaties-*.xml
 /changgou-common/target/
+/changgou-common-db/target/
+/changgou-eureka/target/
