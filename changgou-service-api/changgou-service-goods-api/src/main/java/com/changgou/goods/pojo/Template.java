@@ -4,6 +4,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /****
+ * 规格参数管理
  * @Author:admin
  * @Description:Template构建
  * @Date 2019/6/14 19:13

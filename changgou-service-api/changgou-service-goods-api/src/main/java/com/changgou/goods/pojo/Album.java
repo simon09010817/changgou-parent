@@ -4,6 +4,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /****
+ * 相册管理
  * @Author:admin
  * @Description:Album构建
  * @Date 2019/6/14 19:13
